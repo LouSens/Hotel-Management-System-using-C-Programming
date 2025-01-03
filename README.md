@@ -51,8 +51,8 @@ This project is a **Hotel Management System** implemented in C. It allows users 
 ### `viewBill(const char *username)`
 - Displays all bills for a specific customer by matching their username with records in `bills.txt`.
 
-### `bookAccommodation(const char *username)`
-- Allows a customer to book an accommodation and saves the booking information in `bookings.dat`.
+### `bookAccommodation()`
+- Allows a customer to book an accommodation and saves the booking information in `bills.txt`.
 
 ## How to Run
 1. **Compile the Program**:
