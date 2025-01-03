@@ -24,9 +24,6 @@ This project is a **Hotel Management System** implemented in C. It allows users 
 ├── customer_info.txt         # Stores customer info (name, email, phone number)
 ├── accommodations.txt        # Stores accommodation details
 ├── bills.txt                 # Stores customer bill information
-├── bookings.dat              # Binary file for bookings
-├── customers.dat             # Binary file for customer details
-├── users.dat                 # Binary file for user login details
 ```
 
 ## How It Works
