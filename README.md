@@ -20,8 +20,7 @@ This project is a **Hotel Management System** implemented in C. It allows users 
 
 ## File Structure
 ```
-├── main.c                    # Main program file
-├── customer.c                # Customer-related functions
+├── main.c                    # Main program file            
 ├── customer_info.txt         # Stores customer info (name, email, phone number)
 ├── accommodations.txt        # Stores accommodation details
 ├── bills.txt                 # Stores customer bill information
